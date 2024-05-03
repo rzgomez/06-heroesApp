@@ -2,11 +2,35 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
   "heroes": [
+    {
+      "id": "dc-batman",
+      "superhero": "Batman",
+      "publisher": "DC Comics",
+      "alter_ego": "Bruce Wayne",
+      "first_appearance": "Detective Comics #27",
+      "characters": "Bruce Wayne"
+    },
+    {
+      "id": "dc-superman",
+      "superhero": "Superman",
+      "publisher": "DC Comics",
+      "alter_ego": "Kal-El",
+      "first_appearance": "Action Comics #1",
+      "characters": "Kal-El"
+    },
+    {
+      "id": "dc-flash",
+      "superhero": "Flash",
+      "publisher": "DC Comics",
+      "alter_ego": "Jay Garrick",
+      "first_appearance": "Flash Comics #1",
+      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
+    },
     {
       "id": "dc-green",
       "superhero": "Green Lantern",
@@ -142,24 +166,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "YkoTbbq",
-      "superhero": "Supercor",
-      "publisher": "Marvel Comics",
-      "alter_ego": "Greco",
-      "first_appearance": "Comic udemy #7",
-      "characters": "Supercor",
-      "alt_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCgBTgGnYUd9z3lVhFX0SWjQe9DZ36OfdzAv7J8Y7noA&s"
-    },
-    {
-      "id": "-uiICi-",
-      "superhero": "Superdog",
-      "publisher": "DC Comics",
-      "alter_ego": "Floffy",
-      "first_appearance": "Comic udemy #31",
-      "characters": "Superdog, SuperRojin",
-      "alt_img": "https://www.dingonatura.com/wp-content/uploads/2019/11/Pipper_comic1.png"
     }
   ]
 }
